@@ -1,6 +1,6 @@
 # HR Management System
 
-[Demo website](https://hr-management-five.vercel.app/)
+[Demo website](https://learneveryday.online/)
 ![img.png](img.png)
 
 ## Project setup
